@@ -107,7 +107,3 @@ The application uses Python lists and dictionaries to store room and guest infor
 - `total_rooms` defines the total number of rooms.
 
 The data is stored in memory and is lost when the program closes.
-
-## Purpose
-
-This project was created to practice Python programming fundamentals by building a simple hotel room management application.
