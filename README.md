@@ -1,5 +1,3 @@
-
-
 # Hotel Room Management System
 
 A simple, menu-driven Hotel Room Management System built using Python to manage hotel rooms, guest check-ins, check-outs, and billing.
@@ -124,10 +122,3 @@ This project was created to practice Python programming fundamentals by building
 - Save records permanently using file handling
 - Connect the system to a database
 - Create a graphical user interface
-
-## Author
-
-**Fatima Aziz**
-
-GitHub: [fatimaaziz27](https://github.com/fatimaaziz27)
-
