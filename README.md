@@ -111,14 +111,3 @@ The data is stored in memory and is lost when the program closes.
 ## Purpose
 
 This project was created to practice Python programming fundamentals by building a simple hotel room management application.
-
-## Future Improvements
-
-- Add guest contact information
-- Track check-in and check-out dates
-- Add room categories and different rates
-- Prevent duplicate or empty guest names
-- Improve input validation
-- Save records permanently using file handling
-- Connect the system to a database
-- Create a graphical user interface
