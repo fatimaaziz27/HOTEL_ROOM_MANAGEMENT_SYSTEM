@@ -97,13 +97,3 @@ Displays the room numbers, guest names, and nightly rates for all occupied rooms
 ```bash
 python Hotel_Room_Management_System.py
 ```
-
-## Data Storage
-
-The application uses Python lists and dictionaries to store room and guest information.
-
-- `available_rooms` stores rooms that are available.
-- `occupied_rooms` stores rooms assigned to guests.
-- `total_rooms` defines the total number of rooms.
-
-The data is stored in memory and is lost when the program closes.
